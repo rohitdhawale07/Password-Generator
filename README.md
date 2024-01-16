@@ -11,7 +11,6 @@ Users have the option to include numbers, uppercase letters, and symbols in the 
 - Password Generation:
 Clicking the "Click to generate Password" button triggers the generation of a random password based on the specified criteria.
 
-Clicking the "Click to generate Password" button triggers the generation of a random password based on the specified criteria.
 ## Usage
 - Password Length:
 Adjust the password length by entering a number in the input field labeled "What Should Be The Password Length."
