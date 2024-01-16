@@ -1,4 +1,50 @@
+# Password Generator
 ## Hosted Link:- https://password-generator-nine-topaz.vercel.app/
+## Overview
+The Password Generator is a React-based web application that allows users to generate strong and secure passwords based on their preferences. Users can customize the password length and choose to include uppercase letters, numbers, and symbols. The generated password is displayed on the screen for easy copying.
+
+## Features
+- Password Length Setting:
+Users can specify the desired length of the generated password.
+- Include Numbers, Uppercase Letters, and Symbols:
+Users have the option to include numbers, uppercase letters, and symbols in the generated password, enhancing its complexity and security.
+- Password Generation:
+Clicking the "Click to generate Password" button triggers the generation of a random password based on the specified criteria.
+
+
+Password Generator
+Overview
+The Password Generator is a React-based web application that allows users to generate strong and secure passwords based on their preferences. Users can customize the password length and choose to include uppercase letters, numbers, and symbols. The generated password is displayed on the screen for easy copying.
+
+Features
+Password Length Setting:
+
+Users can specify the desired length of the generated password.
+Include Numbers, Uppercase Letters, and Symbols:
+
+Users have the option to include numbers, uppercase letters, and symbols in the generated password, enhancing its complexity and security.
+Password Generation:
+
+Clicking the "Click to generate Password" button triggers the generation of a random password based on the specified criteria.
+## Usage
+- Password Length:
+Adjust the password length by entering a number in the input field labeled "What Should Be The Password Length."
+- Include Numbers, Uppercase Letters, and Symbols:
+Toggle the corresponding checkboxes labeled "Include Numbers," "Include Uppercase letters," and "Include Symbols" to include or exclude these elements in the password.
+- Generate Password:
+Click the "Click to generate Password" button to generate a password based on the specified criteria.
+- Generated Password Display:
+The generated password is displayed prominently on the screen for easy copying.
+
+## Technologies Used
+- ReactJS: A JavaScript library for building user interfaces.
+
+## Code Structure
+- HTML: The structure of the web page is defined in the App.js file.
+- CSS: Styling is applied through the App.css file.
+- JavaScript (React): The functionality and UI interactions are implemented in the App.js file.
+
+
 
 # Getting Started with Create React App
 
