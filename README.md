@@ -11,20 +11,6 @@ Users have the option to include numbers, uppercase letters, and symbols in the 
 - Password Generation:
 Clicking the "Click to generate Password" button triggers the generation of a random password based on the specified criteria.
 
-
-Password Generator
-Overview
-The Password Generator is a React-based web application that allows users to generate strong and secure passwords based on their preferences. Users can customize the password length and choose to include uppercase letters, numbers, and symbols. The generated password is displayed on the screen for easy copying.
-
-Features
-Password Length Setting:
-
-Users can specify the desired length of the generated password.
-Include Numbers, Uppercase Letters, and Symbols:
-
-Users have the option to include numbers, uppercase letters, and symbols in the generated password, enhancing its complexity and security.
-Password Generation:
-
 Clicking the "Click to generate Password" button triggers the generation of a random password based on the specified criteria.
 ## Usage
 - Password Length:
